@@ -1,1 +1,1 @@
-# Simple tailwind configs
+# Simple tailwind setups
